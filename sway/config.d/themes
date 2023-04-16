@@ -1,16 +1,17 @@
-
+include color_palatte
 
 
 # Set inner/outer gaps
 
-gaps inner 5
-gaps outer 5
+gaps inner 10
+gaps outer 10
 
 # Hide titlebar on windows
 default_border pixel 1
 
 # Default font
-font FiraSans Nerd Font 10
+font pango:SourceCodePro Medium 12
+#font pango:monospace 10
 
 # Thin borders:
 smart_borders on
@@ -24,7 +25,19 @@ bar {
    swaybar_command waybar
 }
 
+## Window decoration
+# class                 border         backgr.       text      indicator     child_border
+client.focused           $lavender     $base 	     $text  	$rosewater $lavender
+client.focused_inactive  $lavender     $base 	     $text  	$rosewater $lavender
+client.unfocused         $mauve        $base 	     $text  	$rosewater $mauve
+client.urgent            $peach        $base 	     $peach 	$overlay0  $peach
+client.placeholder       $base         $base 	     $text  	$overlay0  $overlay0
+client.background        $base
+
+
 
 # Background Image
 
 output * bg bg/minimal/od_space01.png fill
+
+
