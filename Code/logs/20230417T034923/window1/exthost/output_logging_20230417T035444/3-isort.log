@@ -1,0 +1,45 @@
+Name: isort
+Module: isort
+Python extension loading
+Waiting for interpreter from python extension.
+Python extension loaded
+[ERROR 2023-3-17 3:54:51.60]: Python interpreter missing:
+[Option 1] Select python interpreter using the ms-python.python.
+[Option 2] Set an interpreter using "isort.interpreter" setting.
+
+CWD Server: /home/kokutaro/ehe
+sys.path used to run Server:
+   /home/kokutaro/.vscode/extensions/ms-python.isort-2022.8.0/bundled/libs
+   /home/kokutaro/.vscode/extensions/ms-python.isort-2022.8.0/bundled/tool
+   /usr/lib/python310.zip
+   /usr/lib/python3.10
+   /usr/lib/python3.10/lib-dynload
+   /usr/lib/python3.10/site-packages
+Settings used to run Server:
+[
+    {
+        "check": false,
+        "workspace": "file:///home/kokutaro/ehe",
+        "logLevel": "error",
+        "args": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+/bin/python -m isort --version-number
+CWD Linter: /home/kokutaro/ehe
+Version info for isort running for /home/kokutaro/ehe:
+5.10.1
+
+SUPPORTED isort>=5.10.1
+FOUND isort==5.10.1
+

@@ -7,7 +7,7 @@ gaps inner 10
 gaps outer 10
 
 # Hide titlebar on windows
-default_border pixel 1
+default_border pixel 5
 
 # Default font
 font pango:SourceCodePro Medium 12
@@ -27,9 +27,9 @@ bar {
 
 ## Window decoration
 # class                 border         backgr.       text      indicator     child_border
-client.focused           $lavender     $base 	     $text  	$rosewater $lavender
-client.focused_inactive  $lavender     $base 	     $text  	$rosewater $lavender
-client.unfocused         $mauve        $base 	     $text  	$rosewater $mauve
+client.focused           $mauve     $base 	     $text  	$rosewater $mauve
+client.focused_inactive  $mauve     $base 	     $text  	$rosewater $mauve
+client.unfocused         $lavender        $base 	     $text  	$rosewater $lavender
 client.urgent            $peach        $base 	     $peach 	$overlay0  $peach
 client.placeholder       $base         $base 	     $text  	$overlay0  $overlay0
 client.background        $base

@@ -1,0 +1,55 @@
+{
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "catppuccin-frappe",
+    "editor.fontFamily": "'Cascadia Code PL',  monospace, ",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "pyqt-integration.qtdesigner.path": "c:\\Users\\kokutaro\\Desktop\\PyGuiProject\\welcome copy.ui",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "python.defaultInterpreterPath": "C:\\Users\\kokutaro\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "liveServer.settings.donotVerifyTags": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.autofetch": true,
+    "settingsSync.ignoredSettings": [
+        "-C_Cpp.default.compilerPath",
+        "-C_Cpp.default.browse.databaseFilename",
+        "-C_Cpp.default.browse.path",
+        "-C_Cpp.default.customConfigurationVariables",
+        "-C_Cpp.default.defines",
+        "-C_Cpp.default.compileCommands",
+        "-C_Cpp.default.compilerArgs",
+        "-C_Cpp.default.forcedInclude",
+        "-C_Cpp.default.includePath",
+        "-C_Cpp.default.macFrameworkPath",
+        "-C_Cpp.default.intelliSenseMode"
+    ],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "arduino.useArduinoCli": true,
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+    "C_Cpp.files.exclude": {
+
+        "**/.vscode": true,
+        "**/.vs": true
+    },
+    "editor.guides.bracketPairs": true,
+    "terminal.explorerKind": "external",
+    "terminal.external.linuxExec": "kitty"
+}

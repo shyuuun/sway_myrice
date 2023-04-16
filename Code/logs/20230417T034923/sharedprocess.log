@@ -1,0 +1,183 @@
+2023-04-17 03:49:25.853 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kokutaro/.vscode/extensions
+2023-04-17 03:49:26.095 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/kokutaro/.vscode/extensions Unable to create file 'vscode-userdata:/home/kokutaro/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-04-17 03:49:26.095 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kokutaro/.vscode/extensions
+2023-04-17 03:49:52.179 [info] Getting Manifest... coenraads.bracket-pair-colorizer-2
+2023-04-17 03:49:52.579 [info] Installing extension: coenraads.bracket-pair-colorizer-2
+2023-04-17 03:49:52.579 [info] Installing the extension without checking dependencies and pack coenraads.bracket-pair-colorizer-2
+2023-04-17 03:49:53.616 [warning] Extension signature verification failed with error 'UnknownError': coenraads.bracket-pair-colorizer-2
+2023-04-17 03:49:53.759 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.328322a1-1215-47c5-959f-ffa4257334f4: coenraads.bracket-pair-colorizer-2
+2023-04-17 03:49:53.767 [info] Renamed to /home/kokutaro/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.4
+2023-04-17 03:49:53.770 [info] Extracting extension completed. coenraads.bracket-pair-colorizer-2
+2023-04-17 03:49:53.785 [info] Extension installed successfully: coenraads.bracket-pair-colorizer-2
+2023-04-17 03:49:53.786 [info] Getting Manifest... dracula-theme.theme-dracula
+2023-04-17 03:49:53.924 [info] Installing extension: dracula-theme.theme-dracula
+2023-04-17 03:49:53.925 [info] Installing the extension without checking dependencies and pack dracula-theme.theme-dracula
+2023-04-17 03:49:54.584 [warning] Extension signature verification failed with error 'UnknownError': dracula-theme.theme-dracula
+2023-04-17 03:49:54.594 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.65f3f4a6-71c1-4bcb-8e55-acfc28b6be4a: dracula-theme.theme-dracula
+2023-04-17 03:49:54.602 [info] Renamed to /home/kokutaro/.vscode/extensions/dracula-theme.theme-dracula-2.24.2
+2023-04-17 03:49:54.604 [info] Extracting extension completed. dracula-theme.theme-dracula
+2023-04-17 03:49:54.616 [info] Extension installed successfully: dracula-theme.theme-dracula
+2023-04-17 03:49:54.617 [info] Getting Manifest... ms-python.python
+2023-04-17 03:49:54.737 [info] Installing extension: ms-python.python
+2023-04-17 03:49:54.737 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-04-17 03:50:02.009 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-04-17 03:50:04.140 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.21153605-a6c0-4219-bdd1-54a879e34957: ms-python.python
+2023-04-17 03:50:04.152 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-python.python-2023.6.0
+2023-04-17 03:50:04.155 [info] Extracting extension completed. ms-python.python
+2023-04-17 03:50:04.168 [info] Extension installed successfully: ms-python.python
+2023-04-17 03:50:04.168 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-04-17 03:50:04.352 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-04-17 03:50:04.356 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2023-04-17 03:50:08.185 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-renderers
+2023-04-17 03:50:08.439 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.6576cef4-9214-4c86-a92e-152b6cc96e86: ms-toolsai.jupyter-renderers
+2023-04-17 03:50:08.448 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2023-04-17 03:50:08.449 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-04-17 03:50:08.463 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-04-17 03:50:08.464 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-04-17 03:50:08.612 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2023-04-17 03:50:08.612 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2023-04-17 03:50:09.206 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-slideshow
+2023-04-17 03:50:09.222 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.def42385-0288-4af1-b09f-bb1167152da2: ms-toolsai.vscode-jupyter-slideshow
+2023-04-17 03:50:09.230 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-04-17 03:50:09.231 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-04-17 03:50:09.242 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-04-17 03:50:09.242 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-04-17 03:50:09.374 [info] Installing extension: dbaeumer.vscode-eslint
+2023-04-17 03:50:09.374 [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+2023-04-17 03:50:10.240 [warning] Extension signature verification failed with error 'UnknownError': dbaeumer.vscode-eslint
+2023-04-17 03:50:10.264 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.4a2f957f-c2c2-46e8-b7d5-8cfd95d3de45: dbaeumer.vscode-eslint
+2023-04-17 03:50:10.272 [info] Renamed to /home/kokutaro/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0
+2023-04-17 03:50:10.273 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-04-17 03:50:10.314 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-04-17 03:50:10.315 [info] Getting Manifest... naumovs.color-highlight
+2023-04-17 03:50:10.426 [info] Installing extension: naumovs.color-highlight
+2023-04-17 03:50:10.426 [info] Installing the extension without checking dependencies and pack naumovs.color-highlight
+2023-04-17 03:50:11.182 [warning] Extension signature verification failed with error 'UnknownError': naumovs.color-highlight
+2023-04-17 03:50:11.337 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.0e5df9fe-0351-4c02-96e7-e240fa93c818: naumovs.color-highlight
+2023-04-17 03:50:11.348 [info] Renamed to /home/kokutaro/.vscode/extensions/naumovs.color-highlight-2.5.0
+2023-04-17 03:50:11.348 [info] Extracting extension completed. naumovs.color-highlight
+2023-04-17 03:50:11.363 [info] Extension installed successfully: naumovs.color-highlight
+2023-04-17 03:50:11.364 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-04-17 03:50:11.424 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-04-17 03:50:11.424 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2023-04-17 03:50:12.050 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-keymap
+2023-04-17 03:50:12.057 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.af842ff2-c56b-4afa-9a38-a3cc56fbb67a: ms-toolsai.jupyter-keymap
+2023-04-17 03:50:12.065 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-04-17 03:50:12.066 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-04-17 03:50:12.077 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-04-17 03:50:12.077 [info] Getting Manifest... oderwat.indent-rainbow
+2023-04-17 03:50:12.187 [info] Installing extension: oderwat.indent-rainbow
+2023-04-17 03:50:12.187 [info] Installing the extension without checking dependencies and pack oderwat.indent-rainbow
+2023-04-17 03:50:13.896 [warning] Extension signature verification failed with error 'UnknownError': oderwat.indent-rainbow
+2023-04-17 03:50:14.485 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.c630923f-cb30-4687-b323-f9baf422cbf5: oderwat.indent-rainbow
+2023-04-17 03:50:14.498 [info] Renamed to /home/kokutaro/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2023-04-17 03:50:14.499 [info] Extracting extension completed. oderwat.indent-rainbow
+2023-04-17 03:50:14.509 [info] Extension installed successfully: oderwat.indent-rainbow
+2023-04-17 03:50:14.510 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-04-17 03:50:14.568 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-17 03:50:14.569 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2023-04-17 03:50:15.150 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-cell-tags
+2023-04-17 03:50:15.165 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.f2d2ae3e-3c71-4e60-aa8e-a68fa7173c2d: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-17 03:50:15.173 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-04-17 03:50:15.175 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-04-17 03:50:15.185 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-17 03:50:15.186 [info] Getting Manifest... platformio.platformio-ide
+2023-04-17 03:50:15.300 [info] Installing extension: platformio.platformio-ide
+2023-04-17 03:50:15.300 [info] Installing the extension without checking dependencies and pack platformio.platformio-ide
+2023-04-17 03:50:18.188 [warning] Extension signature verification failed with error 'UnknownError': platformio.platformio-ide
+2023-04-17 03:50:19.084 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.e5a2a697-460c-40bb-b32d-b8bfe12fabcd: platformio.platformio-ide
+2023-04-17 03:50:19.097 [info] Renamed to /home/kokutaro/.vscode/extensions/platformio.platformio-ide-3.1.1-linux-x64
+2023-04-17 03:50:19.098 [info] Extracting extension completed. platformio.platformio-ide
+2023-04-17 03:50:19.109 [info] Extension installed successfully: platformio.platformio-ide
+2023-04-17 03:50:19.110 [info] Getting Manifest... pkief.material-icon-theme
+2023-04-17 03:50:19.217 [info] Installing extension: pkief.material-icon-theme
+2023-04-17 03:50:19.217 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2023-04-17 03:50:20.056 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-icon-theme
+2023-04-17 03:50:20.421 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.19adffe2-2966-47a4-8b33-656788f655a9: pkief.material-icon-theme
+2023-04-17 03:50:20.430 [info] Renamed to /home/kokutaro/.vscode/extensions/pkief.material-icon-theme-4.26.0
+2023-04-17 03:50:20.432 [info] Extracting extension completed. pkief.material-icon-theme
+2023-04-17 03:50:20.443 [info] Extension installed successfully: pkief.material-icon-theme
+2023-04-17 03:50:20.445 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-17 03:50:20.603 [info] Installing extension: ritwickdey.liveserver
+2023-04-17 03:50:20.603 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2023-04-17 03:50:23.243 [warning] Extension signature verification failed with error 'UnknownError': ritwickdey.liveserver
+2023-04-17 03:50:25.133 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.251db2a7-6bc9-467d-bf99-33cc869f8e8f: ritwickdey.liveserver
+2023-04-17 03:50:25.143 [info] Renamed to /home/kokutaro/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-04-17 03:50:25.145 [info] Extracting extension completed. ritwickdey.liveserver
+2023-04-17 03:50:25.156 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-17 03:50:25.157 [info] Getting Manifest... ms-python.isort
+2023-04-17 03:50:25.239 [info] Installing extension: ms-python.isort
+2023-04-17 03:50:25.239 [info] Installing the extension without checking dependencies and pack ms-python.isort
+2023-04-17 03:50:26.073 [warning] Extension signature verification failed with error 'UnknownError': ms-python.isort
+2023-04-17 03:50:26.199 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.6cc592e9-1b68-4487-9268-601131598f06: ms-python.isort
+2023-04-17 03:50:26.208 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-python.isort-2022.8.0
+2023-04-17 03:50:26.209 [info] Extracting extension completed. ms-python.isort
+2023-04-17 03:50:26.220 [info] Extension installed successfully: ms-python.isort
+2023-04-17 03:50:26.221 [info] Getting Manifest... vsciot-vscode.vscode-arduino
+2023-04-17 03:50:26.344 [info] Installing extension: vsciot-vscode.vscode-arduino
+2023-04-17 03:50:26.345 [info] Installing the extension without checking dependencies and pack vsciot-vscode.vscode-arduino
+2023-04-17 03:50:33.552 [warning] Extension signature verification failed with error 'UnknownError': vsciot-vscode.vscode-arduino
+2023-04-17 03:50:33.884 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.bdb803b4-b7a7-4ec4-a1df-f76b4d2036fa: vsciot-vscode.vscode-arduino
+2023-04-17 03:50:33.893 [info] Renamed to /home/kokutaro/.vscode/extensions/vsciot-vscode.vscode-arduino-0.6.0-linux-x64
+2023-04-17 03:50:33.894 [info] Extracting extension completed. vsciot-vscode.vscode-arduino
+2023-04-17 03:50:33.907 [info] Extension installed successfully: vsciot-vscode.vscode-arduino
+2023-04-17 03:50:33.907 [info] Getting Manifest... ms-vscode.vscode-serial-monitor
+2023-04-17 03:50:34.040 [info] Installing extension: ms-vscode.vscode-serial-monitor
+2023-04-17 03:50:34.041 [info] Installing the extension without checking dependencies and pack ms-vscode.vscode-serial-monitor
+2023-04-17 03:50:36.347 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.vscode-serial-monitor
+2023-04-17 03:50:36.650 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.9584d4e0-9829-455a-a61a-d1bb74e37dcf: ms-vscode.vscode-serial-monitor
+2023-04-17 03:50:36.658 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-vscode.vscode-serial-monitor-0.9.0
+2023-04-17 03:50:36.660 [info] Extracting extension completed. ms-vscode.vscode-serial-monitor
+2023-04-17 03:50:36.671 [info] Extension installed successfully: ms-vscode.vscode-serial-monitor
+2023-04-17 03:50:36.672 [info] Getting Manifest... ms-python.vscode-pylance
+2023-04-17 03:50:36.748 [info] Installing extension: ms-python.vscode-pylance
+2023-04-17 03:50:36.748 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-04-17 03:50:42.135 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-04-17 03:50:44.468 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.ba2fa5db-903e-491a-a9a6-3242f591b8f2: ms-python.vscode-pylance
+2023-04-17 03:50:44.491 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-python.vscode-pylance-2023.4.20
+2023-04-17 03:50:44.493 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-04-17 03:50:44.512 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-04-17 03:50:44.514 [info] Getting Manifest... ms-vscode.cpptools
+2023-04-17 03:50:44.632 [info] Installing extension: ms-vscode.cpptools
+2023-04-17 03:50:44.632 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+2023-04-17 03:51:47.515 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools
+2023-04-17 03:51:49.375 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.401ec216-945a-41e9-9b68-87ed107d8b95: ms-vscode.cpptools
+2023-04-17 03:51:49.432 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-vscode.cpptools-1.14.5-linux-x64
+2023-04-17 03:51:49.462 [info] Extracting extension completed. ms-vscode.cpptools
+2023-04-17 03:51:49.518 [info] Extension installed successfully: ms-vscode.cpptools
+2023-04-17 03:51:49.519 [info] Getting Manifest... ms-toolsai.jupyter
+2023-04-17 03:51:49.579 [info] Installing extension: ms-toolsai.jupyter
+2023-04-17 03:51:49.580 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2023-04-17 03:51:55.808 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2023-04-17 03:51:56.162 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.c1a8622f-d588-46d5-a6bb-834ea4bfc165: ms-toolsai.jupyter
+2023-04-17 03:51:56.229 [info] Renamed to /home/kokutaro/.vscode/extensions/ms-toolsai.jupyter-2023.3.1201040234
+2023-04-17 03:51:56.238 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-04-17 03:51:56.262 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-04-17 03:53:14.929 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2023-04-17 03:53:14.949 [info] Installing extension: catppuccin.catppuccin-vsc
+2023-04-17 03:53:15.865 [warning] Extension signature verification failed with error 'UnknownError': catppuccin.catppuccin-vsc
+2023-04-17 03:53:15.874 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.cb2d7b81-4075-4c64-9013-34678810a5f4: catppuccin.catppuccin-vsc
+2023-04-17 03:53:15.882 [info] Renamed to /home/kokutaro/.vscode/extensions/catppuccin.catppuccin-vsc-2.7.0
+2023-04-17 03:53:15.883 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2023-04-17 03:53:15.895 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2023-04-17 03:53:34.076 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2023-04-17 03:53:34.082 [info] Installing extension: catppuccin.catppuccin-vsc-icons
+2023-04-17 03:53:35.333 [warning] Extension signature verification failed with error 'UnknownError': catppuccin.catppuccin-vsc-icons
+2023-04-17 03:53:35.876 [info] Extracted extension to /home/kokutaro/.vscode/extensions/.53b375f1-c6b9-49a4-bd9d-ef79ab4f730d: catppuccin.catppuccin-vsc-icons
+2023-04-17 03:53:35.885 [info] Renamed to /home/kokutaro/.vscode/extensions/catppuccin.catppuccin-vsc-icons-0.5.0
+2023-04-17 03:53:35.886 [info] Extracting extension completed. catppuccin.catppuccin-vsc-icons
+2023-04-17 03:53:35.897 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons
+2023-04-17 04:17:23.354 [error] [uncaught exception in sharedProcess]: Can not add index to parent of type property: Error: Can not add index to parent of type property
+    at O (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:16:2082)
+    at Object.N [as edit] (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:90:22857)
+    at d (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:90:48593)
+    at p (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:90:48809)
+    at y.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:60887)
+    at async y.O (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:15604)
+2023-04-17 04:18:19.350 [error] [uncaught exception in sharedProcess]: Can not add index to parent of type property: Error: Can not add index to parent of type property
+    at O (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:16:2082)
+    at Object.N [as edit] (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:90:22857)
+    at d (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:90:48593)
+    at p (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:90:48809)
+    at y.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:60887)
+    at async y.O (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:15604)
