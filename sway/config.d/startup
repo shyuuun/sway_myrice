@@ -1,0 +1,4 @@
+# Startups
+
+# make sure xfce-polkit & polkit are installed (if using thunar file mngr)
+exec_always --no-startup-id /usr/lib/xfce-polkit/xfce-polkit &
